@@ -11,9 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-
-
 <!--<p align="center">
 </p>-->
-[Heygle](https://github.com/heygle/.github/assets/75578936/ce135470-739c-4076-9d56-f6b4dd38c1c4)
 
+<div align="center">
+  <video src="https://github.com/heygle/.github/assets/75578936/ce135470-739c-4076-9d56-f6b4dd38c1c4" width="400" />
+</div>
