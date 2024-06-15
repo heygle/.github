@@ -15,8 +15,5 @@
 
 <!--<p align="center">
 </p>-->
-<div style="text-align: center;">
-<video width="320" height="240" controls>
 [Heygle](https://github.com/heygle/.github/assets/75578936/ce135470-739c-4076-9d56-f6b4dd38c1c4)
-</video>
-</div>
+
